@@ -1,0 +1,19 @@
+{
+  "name": "mr-meeseeks",
+  "version": "1.0.0",
+  "description": "I am Mr. Meeseeks look at me!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyrick/mr-meeseeks.git"
+  },
+  "author": "Andrew Bliss <andrewgbliss@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinyrick/mr-meeseeks/issues"
+  },
+  "homepage": "https://github.com/tinyrick/mr-meeseeks"
+}
